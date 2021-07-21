@@ -4,3 +4,7 @@ function calculadora(num){
    document.getElementById('resultado').innerHTML = numero + num;
     
 }
+function clean(){
+   document.getElementById('resultado').innerHTML=" ";
+
+}
