@@ -1,0 +1,16 @@
+.container{
+
+}.main{
+    margin: auto;
+   width: 400px;
+   height: 400px;
+   text-align: center;
+}button{
+    padding: 10px;
+    background-color: brown;
+    color: snow;
+    border: none;
+}button:hover{
+    background-color: springgreen;
+    color: black;
+}
